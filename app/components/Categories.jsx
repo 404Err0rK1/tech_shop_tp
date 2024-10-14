@@ -7,7 +7,7 @@ import Link from "next/link";
 import Slider from "react-slick";
 
 export default function Categories({ categories }) {
-  //setting react-slick
+  // === setting react-slick ===
   var settings = {
     dots: true,
     infinite: false,
