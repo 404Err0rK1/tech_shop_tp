@@ -146,7 +146,7 @@ You can explore the demo of the e-commerce website at [this link](https://docs-r
 To access the Admin Panel, use the following credentials:
 
 - **Email**: admin@gmail.com
-- **Password**: iloveyou
+- **Password**: admintp
 
 (Note: This demo admin account has read and write permissions disabled for security purposes.)
 
